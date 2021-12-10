@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-otpauth-dev-224500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::216331637471:role/amplify-otpauth-dev-224500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::216331637471:role/amplify-otpauth-dev-224500-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-otpauth-dev-224500-deployment",
+      "UnauthRoleName": "amplify-otpauth-dev-224500-unauthRole",
+      "StackName": "amplify-otpauth-dev-224500",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:216331637471:stack/amplify-otpauth-dev-224500/fb8b02b0-5906-11ec-96f6-02b3fb2c2418",
+      "AmplifyAppId": "d2xjd62r8ho2gt"
+    },
+    "categories": {
+      "auth": {
+        "otpauth40b8d412": {
+          "userPoolId": "ap-southeast-1_VjRGeAAAK",
+          "userPoolName": "phone-password-based-auth",
+          "webClientId": "76hs3ho46rvg8mrc4t3jp28qpd",
+          "nativeClientId": "76hs3ho46rvg8mrc4t3jp28qpd"
+        }
+      }
+    }
+  }
+}

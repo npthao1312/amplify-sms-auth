@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "otpauth40b8d412": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": true
+    }
+  }
+}
